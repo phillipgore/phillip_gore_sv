@@ -1,8 +1,15 @@
+<script>
+    import flexibleHomeschoolApp from '$lib/assets/flexible-homeschool-app.jpg';
+    import flexibleFramework from '$lib/assets/flexible-framework.jpg';
+    import flexibleFunnel from '$lib/assets/flexible-funnel.jpg';
+    import myDirectCable from '$lib/assets/my-direct-cable.jpg';
+</script>
+
 <section class="pg-br-inside-avoid">
     <h2 class="cl-danger m-tn-b-12">Example Work</h2>
     <div class="row m-tn-b-36">
         <div class="col-lg-1of5 p-tn-r-18">
-            <enhanced:img class="img-height-tn-90 img-lg-flex box-shadow-3 fl-tn-left m-tn-b-9" src="$lib/assets/flexible-homeschool-app.jpg" alt="Flexible Homeschool App" />
+            <img class="img-height-tn-90 img-lg-flex box-shadow-3 fl-tn-left m-tn-b-9" src="{flexibleHomeschoolApp}" alt="Flexible Homeschool App">
         </div>
         <div class="col-lg-4of5">
             <h3>Flexible Homeschool App</h3>
@@ -17,7 +24,7 @@
 
     <div class="row m-tn-b-36">
         <div class="col-lg-1of5 p-tn-r-18">
-            <enhanced:img class="img-height-tn-90 img-lg-flex box-shadow-3 fl-tn-left m-tn-b-9" src="$lib/assets/flexible-framework.jpg" alt="Flexible Framework" />
+            <img class="img-height-tn-90 img-lg-flex box-shadow-3 fl-tn-left m-tn-b-9" src="{flexibleFramework}" alt="Flexible Framework">
         </div>
         <div class="col-lg-4of5">
             <h3>Flexible Framework</h3>
@@ -32,7 +39,7 @@
 
     <div class="row m-tn-b-36">
         <div class="col-lg-1of5 p-tn-r-18">
-            <enhanced:img class="img-height-tn-90 img-lg-flex box-shadow-3 fl-tn-left m-tn-b-9" src="$lib/assets/flexible-funnel.jpg" alt="Flexible Funnel" />
+            <img class="img-height-tn-90 img-lg-flex box-shadow-3 fl-tn-left m-tn-b-9" src="{flexibleFunnel}" alt="Flexible Funnel">
         </div>
         <div class="col-lg-4of5">
             <h3>Flexible Funnel</h3>
@@ -47,7 +54,7 @@
 
     <div class="row m-tn-b-36">
         <div class="col-lg-1of5 p-tn-r-18">
-            <enhanced:img class="img-height-tn-90 img-lg-flex box-shadow-3 fl-tn-left m-tn-b-9" src="$lib/assets/my-direct-cable.jpg" alt="My Direct Cable" />
+            <img class="img-height-tn-90 img-lg-flex box-shadow-3 fl-tn-left m-tn-b-9" src="{myDirectCable}" alt="My Direct Cable">
         </div>
         <div class="col-lg-4of5">
             <h3>Direct Cable</h3>
