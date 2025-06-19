@@ -8,9 +8,6 @@ const config = {
     preprocess: [vitePreprocess()],
 	kit: {
 		adapter: adapter(),
-		paths: {
-			base: dev ? '' : '/phillip_gore_sv'
-		}
 	},
 };
 
