@@ -1,3 +1,7 @@
+<script>
+    import {base} from '$app/paths';
+</script>
+
 <section class="m-tn-b-neg-12 pg-br-before-always">
     <h2 class="cl-danger m-tn-b-12">Experience</h2>
 
@@ -11,7 +15,7 @@
         <h3>Web Application Developer</h3>
         <h4 class="cl-danger">Various Positions | San Antonio, Texas</h4>
         <p class="m-tn-b-12">If you would like more information about my career as a web application developer, please click the link below.</p>
-        <a class="dis-tn-block txt-ellipsis m-tn-b-24" href="/developer">
+        <a class="dis-tn-block txt-ellipsis m-tn-b-24" href="{base}/developer">
             <i class="icon-link"></i> 
             www.phillipgore.com/developer
         </a>
