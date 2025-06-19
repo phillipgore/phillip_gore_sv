@@ -1,4 +1,5 @@
 <script>
+    import base from '$app/paths';
 	import AnyContact from "$lib/components/AnyContact.svelte";
 	import AnyEducation from "$lib/components/AnyEducation.svelte";
 	import AnyOnline from "$lib/components/AnyOnline.svelte";
@@ -10,7 +11,6 @@
 	import DevTraining from "$lib/components/DevTraining.svelte";
 	import DevWeb from "$lib/components/DevWeb.svelte";
 	import DevWork from "$lib/components/DevWork.svelte";
-
 </script>
 
 <div class="bg-gray-darkest bg-pr-white">
@@ -21,7 +21,7 @@
             <!-- Header -->
             <header class="col-md-1of3 bg-primary bg-pr-white p-tn-9 p-xs-18">
                 <div class="p-tn-v-9 p-md-b-18 text-tn-right text-md-left">
-                    <a href="/" class="bg-gray-lighter cl-gray-darker bd-radius-3 p-tn-tb-6 p-tn-rl-18 m-tn-r-3">Home</a> 
+                    <a href="{base}/" class="bg-gray-lighter cl-gray-darker bd-radius-3 p-tn-tb-6 p-tn-rl-18 m-tn-r-3">Home</a> 
                 </div>
                 <div class="m-md-b-144">
                     <DevTitle></DevTitle>
