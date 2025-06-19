@@ -1,5 +1,5 @@
 <script>
-	import pgAvatar from '$lib/images/pg-avatar.jpg';
+	import pgAvatar from '$lib/assets/pg-avatar.jpg';
 </script>
 
 <section class="clearfix txt-md-center">

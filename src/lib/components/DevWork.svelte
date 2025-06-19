@@ -1,8 +1,8 @@
 <script>
-    import flexibleHomeschoolApp from '$lib/images/flexible-homeschool-app.jpg';
-    import flexibleFramework from '$lib/images/flexible-framework.jpg';
-    import flexibleFunnel from '$lib/images/flexible-funnel.jpg';
-    import myDirectCable from '$lib/images/my-direct-cable.jpg';
+    import flexibleHomeschoolApp from '$lib/assets/flexible-homeschool-app.jpg';
+    import flexibleFramework from '$lib/assets/flexible-framework.jpg';
+    import flexibleFunnel from '$lib/assets/flexible-funnel.jpg';
+    import myDirectCable from '$lib/assets/my-direct-cable.jpg';
 </script>
 
 <section class="pg-br-inside-avoid">

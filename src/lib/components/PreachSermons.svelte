@@ -1,9 +1,9 @@
 <script>
-    import sermonElRoi from '$lib/images/sermon-el-roi.jpg';
-    import sermonTheThirdMan from '$lib/images/sermon-the-third-man.jpg';
-    import sermonEternity from '$lib/images/sermon-eternity.jpg';
-    import sermonAWorthyLife from '$lib/images/sermon-a-worthy-life.jpg'
-    // import sermonLoveRespect from '$lib/images/sermon-love-respect.jpg';
+    import sermonElRoi from '$lib/assets/sermon-el-roi.jpg';
+    import sermonTheThirdMan from '$lib/assets/sermon-the-third-man.jpg';
+    import sermonEternity from '$lib/assets/sermon-eternity.jpg';
+    import sermonAWorthyLife from '$lib/assets/sermon-a-worthy-life.jpg'
+    // import sermonLoveRespect from '$lib/assets/sermon-love-respect.jpg';
 </script>
 
 <section class="m-tn-b-neg-12">

@@ -1,6 +1,6 @@
 <script>
     import {base} from '$app/paths';
-	import pgAvatar from '$lib/images/pg-avatar.jpg';
+	import pgAvatar from '$lib/assets/pg-avatar.jpg';
 </script>
 
 <div class="bg-gray-darkest bg-pr-white">
