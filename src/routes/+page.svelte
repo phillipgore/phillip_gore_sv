@@ -13,6 +13,7 @@
             </h1>
             <a href="{base}/developer" class="bg-gray-lighter cl-gray-darker bd-radius-3 p-tn-tb-6 p-tn-rl-18 m-tn-r-3">Developer</a> 
             <a href="{base}/preacher" class="bg-gray-lighter cl-gray-darker bd-radius-3 p-tn-tb-6 p-tn-rl-18 m-tn-l-3">Preacher</a>
+            <p class="cl-gray-dark cl-pr-black txt-tn-center m-tn-9">GitHub</p>
         </div>
     </div>
 </div>
