@@ -1,5 +1,5 @@
 <script>
-    import base from '$app/paths';
+    import {base} from '$app/paths';
 	import AnyContact from "$lib/components/AnyContact.svelte";
 	import AnyEducation from "$lib/components/AnyEducation.svelte";
 	import AnyOnline from "$lib/components/AnyOnline.svelte";
