@@ -10,7 +10,7 @@
     <h2 class="cl-danger m-tn-b-12 pg-br-after-avoid">Sample Sermons</h2>
     <div class="row pg-br-inside-avoid m-tn-b-36 m-sm-b-18">
         <div class="col-sm-1of3">
-            <img class="img-tn-flex img-height-xs-216 img-sm-flex" src="{sermonElRoi}" alt="Sermon: El Roi: The God Who Sees">
+            <enhanced:img class="img-tn-flex img-height-xs-216 img-sm-flex" src="$lib/assets/sermon-el-roi.jpg" alt="Sermon: El Roi: The God Who Sees" />
         </div>
         <div class="col-sm-2of3 p-tn-t-9 p-sm-l-21 p-sm-t-21">
             <h3>El Roi: The God Who Sees</h3>
@@ -24,7 +24,7 @@
     </div>
     <div class="row pg-br-inside-avoid m-tn-b-36 m-sm-b-18">
         <div class="col-sm-1of3">
-            <img class="img-tn-flex img-height-xs-216 img-sm-flex" src="{sermonTheThirdMan}" alt="Sermon: The Third Man">
+            <enhanced:img class="img-tn-flex img-height-xs-216 img-sm-flex" src="$lib/assets/sermon-the-third-man.jpg" alt="Sermon: The Third Man" />
         </div>
         <div class="col-sm-2of3 p-tn-t-9 p-sm-l-21 p-sm-t-21">
             <h3>The Third Man</h3>
@@ -38,7 +38,7 @@
     </div>
     <div class="row pg-br-inside-avoid m-tn-b-36 m-sm-b-18">
         <div class="col-sm-1of3">
-            <img class="img-tn-flex img-height-xs-216 img-sm-flex" src="{sermonEternity}" alt="Sermon: Eternity">
+            <enhanced:img class="img-tn-flex img-height-xs-216 img-sm-flex" src="$lib/assets/sermon-eternity.jpg" alt="Sermon: Eternity" />
         </div>
         <div class="col-sm-2of3 p-tn-t-9 p-sm-l-21 p-sm-t-21">
             <h3>Eternity</h3>
@@ -52,7 +52,7 @@
     </div>
     <div class="row pg-br-inside-avoid m-tn-b-36 m-sm-b-18">
         <div class="col-sm-1of3">
-            <img class="img-tn-flex img-height-xs-216 img-sm-flex" src="{sermonAWorthyLife}" alt="Sermon: A Worthy Life">
+            <enhanced:img class="img-tn-flex img-height-xs-216 img-sm-flex" src="$lib/assets/sermon-a-worthy-life.jpg" alt="Sermon: A Worthy Life" />
         </div>
         <div class="col-sm-2of3 p-tn-t-9 p-sm-l-21 p-sm-t-21">
             <h3>A Worthy Life</h3>
