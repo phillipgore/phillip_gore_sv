@@ -108004,6 +108004,9 @@ audio {
   hr {
     border-top: 1px solid #8e8e93;
   }
+  .pg-br-before-avoid {
+    page-break-before: avoid;
+  }
   .pg-br-after-avoid {
     page-break-after: avoid;
   }

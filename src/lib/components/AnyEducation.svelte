@@ -1,5 +1,5 @@
-<section>
-    <h2 class="cl-danger m-tn-b-12 pg-br-after-avoid">Education</h2>
+<section class="pg-br-inside-avoid">
+    <h2 class="cl-danger m-tn-b-12">Education</h2>
 
     <div class="timeline-event pg-br-inside-avoid">
         <div class="timeline-date">

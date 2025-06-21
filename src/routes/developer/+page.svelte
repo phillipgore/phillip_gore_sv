@@ -62,21 +62,21 @@
                 <!-- /Skills -->
 
                 <!-- Interests -->
-                <div class="m-tn-b-63 m-pr-b-50">
+                <!-- <div class="m-tn-b-63 m-pr-b-50">
                     <DevInterests></DevInterests>
-                </div>
+                </div> -->
                 <!-- /Interests -->
 
                 <!-- Training -->
-                <div class="m-tn-b-27">
+                <!-- <div class="m-tn-b-27">
                     <DevTraining></DevTraining>
-                </div>
+                </div> -->
                 <!-- /Training -->
 
                 <!-- Work -->
-                <div class="m-tn-b-63">
+                <!-- <div class="m-tn-b-63">
                     <DevWork></DevWork>
-                </div>
+                </div> -->
                 <!-- /Work -->
 
                 <!-- Experience -->

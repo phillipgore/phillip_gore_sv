@@ -1,7 +1,7 @@
-<section class="m-tn-b-neg-12 pg-br-before-always">
+<section class="m-tn-b-neg-12">
     <h2 class="cl-danger m-tn-b-12">Experience</h2>
 
-    <!-- Phillip Gore Design -->
+    <!-- AssetWorks/FacilityForce -->
     <div class="timeline-event p-tn-b-45">
         <div class="timeline-date">
             <h3>2019-2024</h3>
@@ -24,7 +24,7 @@
             <li>Interface refresh.</li>
         </ul>
     </div>
-    <!-- /Phillip Gore Design -->
+    <!-- /AssetWorks/FacilityForce -->
 
     <!-- Phillip Gore Design -->
     <div class="timeline-event p-tn-b-45">
@@ -36,10 +36,10 @@
         <h3>Founder / Web Developer</h3>
         <h4 class="cl-danger">Phillip Gore Design | San Antonio, Texas</h4>
         <p class="m-tn-b-12">Phillip Gore Design is the conduit for my freelance work. I have developed web applications and web sites and done design work.</p>
-        <a class="dis-tn-block txt-ellipsis m-tn-b-24" target="_blank" href="https://www.phillipgoredesign.com/">
+        <!-- <a class="dis-tn-block txt-ellipsis m-tn-b-24" target="_blank" href="https://www.phillipgoredesign.com/">
             <i class="icon-link"></i> 
             www.phillipgoredesign.com
-        </a>
+        </a> -->
         <h4 class="cl-danger">Responsibilities</h4>
         <ul>
             <li>Design and develop web applications.</li>
@@ -51,6 +51,7 @@
     </div>
     <!-- /Phillip Gore Design -->
 
+    <!-- Flexible Homeschool -->
     <div class="timeline-event p-tn-b-45">
         <div class="timeline-indent"></div>
         <!-- <div class="timeline-date timeline-date-indent">
@@ -75,8 +76,10 @@
             </ul>
         </div>
     </div>
+    <!-- /Flexible Homeschool -->
 
-    <div class="timeline-event p-tn-b-45 pg-br-before-always">
+    <!-- Freedom Driven LLC -->
+    <div class="timeline-event p-tn-b-45">
         <div class="timeline-indent"></div>
         <!-- <div class="timeline-date timeline-date-indent">
             <h3>2016-2017</h3>
@@ -87,10 +90,10 @@
             <h3>2016-2017: Front End Developer</h3>
             <h4 class="cl-danger">Freedom Driven LLC | Garden Ridge, Texas</h4>
             <p class="m-tn-b-12">While on contract at Freedom Driven LLC, I worked primarily on two web applications. Lead Propeller, an all-in-one website platform for house flippers. And Flip Pilot, a business management system for house flippers.</p>
-            <a class="dis-tn-block txt-ellipsis m-tn-b-24" target="_blank" href="https://freedomdrivenllc.com/">
+            <!-- <a class="dis-tn-block txt-ellipsis m-tn-b-24" target="_blank" href="https://freedomdrivenllc.com/">
                 <i class="icon-link"></i> 
                 www.freedomdrivenllc.com
-            </a>
+            </a> -->
             <h4 class="cl-danger">Responsibilities</h4>
             <ul>
                 <li>Designed and developed the interface for the Flip Pilot app.</li>
@@ -100,6 +103,7 @@
             </ul>
         </div>
     </div>
+    <!-- /Freedom Driven LLC -->
 
     <!-- More on Linkedin -->
     <div class="timeline-event">

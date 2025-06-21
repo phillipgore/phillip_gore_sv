@@ -20,21 +20,25 @@
             <div class="progress-bar m-tn-b-12">
                 <div class="progress-meter progress-80"></div>
             </div>
-            <h3>jQuery</h3>
+            <!-- <h3>jQuery</h3>
             <div class="progress-bar m-tn-b-12">
                 <div class="progress-meter progress-70"></div>
-            </div>
+            </div> -->
             <h3>MeteorJS/Blaze</h3>
             <div class="progress-bar m-tn-b-12">
                 <div class="progress-meter progress-80"></div>
             </div>
-        </div>
-        <div class="col-sm-1of2 offset-sm-1of4 p-sm-l-9">
             <h3>MongoDB</h3>
             <div class="progress-bar m-tn-b-12">
                 <div class="progress-meter progress-70"></div>
             </div>
         </div>
+        <!-- <div class="col-sm-1of2 offset-sm-1of4 p-sm-l-9">
+            <h3>MongoDB</h3>
+            <div class="progress-bar m-tn-b-12">
+                <div class="progress-meter progress-70"></div>
+            </div>
+        </div> -->
     </div>
 
 </section>
