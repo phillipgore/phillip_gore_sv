@@ -5,7 +5,7 @@
         {id: "phoebe", month: 4, day: 13, year: 2006},
         {id: "harrison", month: 6, day: 6, year: 2010},
         {id: "anniversary", month: 8, day: 9, year: 2000},
-        {id: "work", month: 6, day: 1, year: 2014},
+        {id: "work", month: 5, day: 1, year: 2014},
     ];
 
     const getYears = (id) => {
@@ -17,7 +17,7 @@
         let dateData = dates.find(date => date.id === id);
         let age = currentYear - dateData.year;
         
-        if (currentMonth <= dateData.month && currentDay < dateData.day)  {
+        if (currentMonth < dateData.month || (currentMonth === dateData.month && currentDay < dateData.day))  {
             age = age - 1;
         }
 
