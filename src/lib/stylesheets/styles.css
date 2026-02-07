@@ -108023,3 +108023,11 @@ audio {
 @page {
   margin: 72px 45px 45px;
 }
+.text-ltr {
+  direction: ltr;
+  unicode-bidi: bidi-override;
+}
+.text-rtl {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
