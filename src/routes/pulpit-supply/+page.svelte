@@ -8,6 +8,7 @@
     import PreachSermons from '$lib/components/PreachSermons.svelte';
 	import PulpitTravel from '$lib/components/PulpitTravel.svelte';
 	import PulpitScheduling from '$lib/components/PulpitScheduling.svelte';
+	import AnyEducation from '$lib/components/AnyEducation.svelte';
 </script>
 
 <div class="bg-gray-darkest bg-pr-white">
@@ -69,6 +70,12 @@
                     <PreachSermons></PreachSermons>
                 </div>
                 <!-- /Sermons -->
+
+                <!-- Education -->
+                <div class="m-tn-b-54 pg-br-before-always">
+                    <AnyEducation></AnyEducation>
+                </div>
+                <!-- /Education -->
             </div>
         </div>
     </div>
